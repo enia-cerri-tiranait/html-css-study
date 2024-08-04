@@ -161,4 +161,10 @@ h2 {
   font-family: verdana, sans-serif;
   font-size: 0.8em;
   text-transform: uppercase;
-} /* CSS Document */
+}
+
+#award {
+  position: absolute;
+  top: 30px;
+  left: 50px;
+}
